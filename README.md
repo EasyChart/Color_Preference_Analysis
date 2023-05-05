@@ -1,5 +1,6 @@
 # Color_Preference_Analysis
 
+<img src="https://github.com/Easy-Shu/Color_Preference_Analysis/blob/main/Figure4_Color_Distrbution.png" width=100% alt="beasuty"></img>
 <img src="https://github.com/Easy-Shu/Color_Preference_Analysis/blob/main/Figure10_scatterplot_matrix.png" width=100% alt="beasuty"></img>
 
 ## Citation
