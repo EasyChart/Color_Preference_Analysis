@@ -57,7 +57,7 @@ for i in range(0,len(Colnames)):
             Sub_data['ID']=list(range(0,len(Mean_mydata_Total)))
          
             data_Corr=Sub_data.loc[:,['x','y']].corr()    
-            list_corr.append('R: ' +str(round(data_Corr.values[0][0],2)))
+            list_corr.append('R: ' +str(round(data_Corr.values[0][1],2)))
             Group1.append(Colnames[i])
             Group2.append(Colnames[j])
         else:
