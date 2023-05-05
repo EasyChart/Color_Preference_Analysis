@@ -1,4 +1,5 @@
 # Color_Preference_Analysis
+Consumer clothing preference research is an important part of the sustainabledevelopment of the clothing industry, and it will also have an impact on environmental and designsustainability. Hence, a psychophysical experiment based on solid color shirts is carried out to analyzepeople's perceptions and preferences concerning fashion colors, including the aesthetic differencesand similarities between males and females, and establish a hierarchical feed-forward model of colorpreferences relating to solid color shirts.
 
 <img src="https://github.com/Easy-Shu/Color_Preference_Analysis/blob/main/Figure4_Color_Distrbution.png" width=60% alt="beasuty"></img>
 <img src="https://github.com/Easy-Shu/Color_Preference_Analysis/blob/main/Figure10_scatterplot_matrix.png" width=100% alt="beasuty"></img>
