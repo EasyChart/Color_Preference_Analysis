@@ -61,7 +61,7 @@ for i in range(len(centers_values_lab)):
     
         x = centers_values_lab[i,1]
         y = centers_values_lab[i,2]
-        text = str(i+1)
+        text = str(i)
         TEXTS.append(ax21.text(x, y, text, color=GREY30, fontsize=12, fontname="Arial"))
 
 
@@ -86,8 +86,8 @@ adjust_text(
 ax21 = plt.gca()
 # ax21.set_xlabel('a*')
 # ax21.set_ylabel('b*')
-ax21.set_xlim([-110, 110])
-ax21.set_ylim([-100, 99])
+ax21.set_xlim([-100, 101])
+ax21.set_ylim([-99, 99])
 font = {'family': 'Arial',
         'style': 'italic',
         'weight': 'bold',
